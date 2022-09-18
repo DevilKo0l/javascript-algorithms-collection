@@ -13,3 +13,5 @@ var peakIndexInMountainArray = function (arr) {
     }
   }
 };
+
+let arr;
