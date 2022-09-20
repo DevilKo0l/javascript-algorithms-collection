@@ -8,10 +8,11 @@ var mySqrt = function (x) {
   while (low < high) {
     let mid = Math.floor((low + high) / 2);
     let temp = x / mid;
+    //Check if x = mid * mid
     if (temp == mid) {
       return mid;
     }
-
+    // Check if x < mid * mid or x > mid * mid
     if (temp < mid) {
       high = mid;
     } else {
