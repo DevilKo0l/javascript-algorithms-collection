@@ -21,3 +21,5 @@ var mySqrt = function (x) {
   }
   return low - 1;
 };
+
+console.log("hi");
