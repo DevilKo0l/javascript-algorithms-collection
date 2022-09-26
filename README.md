@@ -45,3 +45,7 @@ You need to install [nodejs](https://nodejs.org/en/)
 
    The page will reload when you make changes.\
    You may also see any lint errors in the console.
+   
+<!-- ALGORITHM -->
+## Algorithm
+[Binary Search](https://github.com/DevilKo0l/javascript-algorithms-collection/tree/master/src/algorithms/search/binary-search)
