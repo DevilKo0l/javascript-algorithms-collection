@@ -48,7 +48,8 @@ You need to install [nodejs](https://nodejs.org/en/)
    
 <!-- ALGORITHM -->
 ## Algorithm
-* [Binary Search](https://github.com/DevilKo0l/javascript-algorithms-collection/tree/master/src/algorithms/search/binary-search)
-* [Quick Sort]()
-* [Merge Sort]()
+* Search Algorithm
+  * [Binary Search](https://github.com/DevilKo0l/javascript-algorithms-collection/tree/master/src/algorithms/search/binary-search)
+  * [Quick Sort]()
+  * [Merge Sort]()
 
