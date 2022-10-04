@@ -50,6 +50,7 @@ You need to install [nodejs](https://nodejs.org/en/)
 ## Algorithm
 * Search Algorithm
   * [Binary Search](https://github.com/DevilKo0l/javascript-algorithms-collection/tree/master/src/algorithms/search/binary-search)
+* Sort Algorithm
   * [Quick Sort]()
   * [Merge Sort]()
 
